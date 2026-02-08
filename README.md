@@ -1,5 +1,3 @@
-<center><center>
-
 ## Hello Word, I'm João Victor Castelleoni
 
 ### 🎓 Estudante de Sistemas de Informação (BSI) - IFBA
