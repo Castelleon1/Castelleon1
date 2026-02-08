@@ -1,25 +1,14 @@
-## Hi there 👋
+<center><h2><h2><center>
 
-<!-- Cabeçalhos -->
+## Hello Word, I'm João Victor Castelleoni
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+### 🎓 Estudante de Sistemas de Informação (BSI) - IFBA
 
-<!--
-**Castelleon1/Castelleon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando Bacharelado em Sistema de Informação no Instituto Federal da Bahia. Estou focado em aprimorar meu conhecimento na area e aprender novas tecnologias
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
