@@ -12,6 +12,7 @@ Atualmente cursando Bacharelado em Sistema de Informação no Instituto Federal 
 
 --------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Castelleon1&show_icons=true&theme=radical)
-
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castelleon1&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Castelleon1&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castelleon1&layout=compact&langs_count=7&theme=dracula" />
+</div>
