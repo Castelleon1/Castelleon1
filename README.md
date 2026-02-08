@@ -1,4 +1,4 @@
-<center><h2><h2><center>
+<center><center>
 
 ## Hello Word, I'm João Victor Castelleoni
 
